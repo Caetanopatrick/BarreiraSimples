@@ -1,0 +1,2 @@
+Funcionário: 3 possui salário bruto de R$3031.5744879346103. Teve o desconto total de R$1030.7353258977673 passando a ficar com o salário liquido de R$2000.839162036843.
+Funcionário: 4 possui salário bruto de R$2082.074819293381. Teve o desconto total de R$707.9054385597497 passando a ficar com o salário liquido de R$1374.1693807336314.

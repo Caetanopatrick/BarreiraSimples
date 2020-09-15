@@ -1,0 +1,2 @@
+Funcionário: 7 possui salário bruto de R$2970.738878285412. Teve o desconto total de R$1010.0512186170401 passando a ficar com o salário liquido de R$1960.6876596683715.
+Funcionário: 8 possui salário bruto de R$4003.221751542871. Teve o desconto total de R$1361.0953955245764 passando a ficar com o salário liquido de R$2642.1263560182947.
